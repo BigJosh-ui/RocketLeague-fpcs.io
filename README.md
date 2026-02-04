@@ -37,6 +37,7 @@
     <div id="hud">
         <div id="scoreboard"><span style="color:#00f2fe">BLUE</span> <span id="s-blue">0</span> | <span id="s-orange">0</span> <span style="color:#ff8c00">ORANGE</span></div>
         <div id="boost-container">
+            <div style="font-size: 12px; margin-bottom: 5px;">BOOST</div>
             <div id="boost-bar"><div id="boost-fill"></div></div>
         </div>
     </div>
